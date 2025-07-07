@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirmaXadesFrisby")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c79b4b27102355764df2e22bcfd267cd6d248a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d6d0cced97489db4d238f39726a3f33ec811084")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirmaXadesFrisby")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirmaXadesFrisby")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
