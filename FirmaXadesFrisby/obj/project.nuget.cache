@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KNaG64qQOmM=",
+  "dgSpecHash": "SHvuqbfiyPw=",
   "success": true,
-  "projectFilePath": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\FirmaXadesFrisby.csproj",
+  "projectFilePath": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\XadesFirmaC\\FirmaXadesFrisby\\FirmaXadesFrisby.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrincon\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.6\\microsoft.bcl.cryptography.9.0.6.nupkg.sha512",
     "C:\\Users\\jrincon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

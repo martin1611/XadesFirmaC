@@ -2774,11 +2774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\FirmaXadesFrisby.csproj",
+      "projectUniqueName": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\XadesFirmaC\\FirmaXadesFrisby\\FirmaXadesFrisby.csproj",
       "projectName": "FirmaXadesFrisby",
-      "projectPath": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\FirmaXadesFrisby.csproj",
+      "projectPath": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\XadesFirmaC\\FirmaXadesFrisby\\FirmaXadesFrisby.csproj",
       "packagesPath": "C:\\Users\\jrincon\\.nuget\\packages\\",
-      "outputPath": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\obj\\",
+      "outputPath": "C:\\Documentos Frisby\\Proyecto FE Dian\\Libreria en c# para FE Dian Colombia\\FirmaXadesGitHub\\FirmaXadesFrisby\\XadesFirmaC\\FirmaXadesFrisby\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
